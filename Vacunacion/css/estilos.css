@@ -1,0 +1,11 @@
+.colorPer
+{
+    /* text-decoration-color : rgb(31, 62, 144) */
+   color: rgb(31, 62, 144);
+}
+
+.imgray {
+    opacity: 0.2;
+    filter: grayscale(1);
+
+}
